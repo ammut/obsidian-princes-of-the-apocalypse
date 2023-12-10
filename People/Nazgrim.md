@@ -1,0 +1,1 @@
+War der Anführer von [[Grommash "Grom" Hellscream|Grom]]s Tribe, sowie sein Ziehvater und Mentor. Ist vermutlich bei [[Gul'Dan]]s Coup umgekommen.

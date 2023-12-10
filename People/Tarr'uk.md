@@ -1,0 +1,1 @@
+Halb Orc, halb Dämon. Werden von [[Gul'Dan]] eingesetzt.
