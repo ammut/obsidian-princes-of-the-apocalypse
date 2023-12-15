@@ -11,5 +11,7 @@ Völlig alleine, weit ab von seiner Heimat, ohne seine vertraute Waffe, schloss 
 Während sie den unterirdischen Tempel des Cult of Elemental Evil Earth erkundeten, fand er seine Axt wieder.
 
 Während seinen Abenteuern in und um die Tempel des Cults Sammelte er allerlei Trophäen von den diversen Monstern und Gegnern die er bekämpfte:
-- Chimera-Dragon Head
-- Umber-Hulk 
+- Drachenschädel einer Chimera
+- Umber-Hulk-Mandibeln
+- Eine Tabakpfeife
+- ...

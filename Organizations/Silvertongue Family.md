@@ -1,0 +1,3 @@
+Hatte eine erste richtige Auseinandersetzung mit [[PARTY]] als sie in [[Yartar]] den soeben ersteigerten [[YARTAR_CHAOS_KRISTALL]] stahlen. [[Kareen]] kam dabei beinahe ums leben. Die meisten der Diebe starben, aber die zwei Geschwister [[SILVERTONGUE_SCHWESTER]] und [[SILVERTONGUE_BRUDER]] konnten mit dem Kristall entkommen.
+
+Die beiden waren ebenfalls anwesend bei den Festlichkeiten am Vorabend der Portal-Eröffnung in [[FEYWILD_ELFEN_STADT]].

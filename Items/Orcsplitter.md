@@ -1,0 +1,1 @@
+Greataxe+3, req. attunement by a good aligned Fighter, Ranger, Paladin or Dwarf.
