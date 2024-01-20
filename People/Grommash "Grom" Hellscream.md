@@ -1,8 +1,11 @@
 ## Backstory
 
-Grom ist in einem Orc-Tribe aufgewachsen, der als Räuber- und Söldnerbande im hohen Norden um Mirabar aktiv war. Seine Fähigkeiten zogen bald die Aufmerksamkeit [[Nazgrim]]'s, der Anführer der Bande, auf sich, der Grom bald zu seinem Zögling machte.
+Grom ist in einem Orc-Tribe aufgewachsen, der als Räuber- und Söldnerbande im hohen Norden um Mirabar aktiv war.
+Seine Fähigkeiten zogen bald die Aufmerksamkeit [[Nazgrim]]'s, der Anführer der Bande, auf sich, der Grom bald zu seinem Zögling machte.
 
-In der Nacht, in der [[Gul'Dan]] seinen Coup durchführte und Nazgrim stürzte, riss Grom Gul'Dan im Getümmel ein Auge aus, und entfliehte dem Gemetzel. Irgendwo im [[The High Forest|High Forest]] wurde ihm seine Axt [[Gorehowl]] gestohlen, während er schlief. Er verfolgte die Diebe tagelang, bis er sie in der Nähe von Redlarch verlor.
+In der Nacht, in der [[Gul'Dan]] seinen Coup durchführte und Nazgrim stürzte, riss Grom Gul'Dan im Getümmel ein Auge aus, und entfliehte dem Gemetzel.
+Irgendwo im [[The High Forest|High Forest]] wurde ihm seine Axt [[Gorehowl]] gestohlen, während er schlief.
+Er verfolgte die Diebe tagelang, bis er sie in der Nähe von Redlarch verlor.
 
 ## Cults of Elemental Evil
 
