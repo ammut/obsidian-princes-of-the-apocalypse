@@ -1,4 +1,4 @@
-This is a write-up of the things we did, the sights we saw, the treasures we found and the people we met during our campaign as [[Eldon]], [[Grommash "Grom" Hellscream|Grom]], [[Kareen]], [[Sun]] and [[Vess]].
+This is a write-up of the things we did, the sights we saw, the treasures we found and the people we met during our campaign as [[Eldon]], [[Grommash "Grom" Hellscream|Grom]], [[Kareen Ilith-Nodel]], [[Sun]] and [[Vess]].
 
 ## Styleguide
 

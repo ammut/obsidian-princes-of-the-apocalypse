@@ -6,7 +6,7 @@ In der Nacht, in der [[Gul'Dan]] seinen Coup durchführte und Nazgrim stürzte, 
 
 ## Cults of Elemental Evil
 
-Völlig alleine, weit ab von seiner Heimat, ohne seine vertraute Waffe, schloss er sich einer Gruppe Abenteurern ([[Sun]], [[Kareen]], [[Vess]], [[Eldon]]) an, um zumindest seine Familie wieder zu ersetzen.
+Völlig alleine, weit ab von seiner Heimat, ohne seine vertraute Waffe, schloss er sich einer Gruppe Abenteurern ([[Sun]], [[Kareen Ilith-Nodel]], [[Vess]], [[Eldon]]) an, um zumindest seine Familie wieder zu ersetzen.
 
 Während sie den unterirdischen Tempel des Cult of Elemental Evil Earth erkundeten, fand er seine Axt wieder.
 

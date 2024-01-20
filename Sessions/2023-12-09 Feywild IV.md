@@ -1,0 +1,5 @@
+- Eröffnungs-Empfang ende
+- "Befragung" (mittels Detect Thoughts) von [[PORTAL_SABOTAGE_SLEEPER_ELFE]] und Greater Restoration
+	- Sie wurde erst bestochen, einen "Trojaner-Chip" einzubauen
+	- Danach wurde sie von [[HINKEBEIN]] nochmal bestochen, den "Chip" durch einen anderen zu ersetzen.
+- Kampf gegen Krokodile/Spinnen-Matriarch zur Belustigung eines Arch-Fey; dicke Belohnung (+2) zu sekundären Stats

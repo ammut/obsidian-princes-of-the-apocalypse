@@ -1,0 +1,1 @@
+Bruder von [[Kareen Ilith-Nodel]]. Kommandant in den Elfischen Streitkräften um [[Thaholone]].
