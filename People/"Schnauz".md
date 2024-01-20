@@ -1,0 +1,3 @@
+Eine Night Hag, die sich in den Dienst von [[Oquagan]] stellte. Hatte einen Narren an [[Vess]] gefressen und sie für mehrere Wochen verhext, was zu regelmässigen Albträumen führte und ihre Erholung massiv beeinträchtigte.
+
+Motivation hinter dieser Besessenheit ist noch unklar(?), aber die [[Vess#Albträume|Albträume]] lassen darauf schliessen, dass Oquagan nicht nur mit dem Soulstealer, sondern auch mit [[Thadag]] involviert war.
