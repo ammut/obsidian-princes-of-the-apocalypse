@@ -31,6 +31,9 @@ jobs:
           submodules: 'true'
           fetch-depth: 0
           repository: ammut/pota-page
+      - name: Get latest Vault
+        run: |
+          git submodule update --remote
       - name: Setup Node
         uses: actions/setup-node@v3
         with:
